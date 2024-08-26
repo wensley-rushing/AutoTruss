@@ -37,9 +37,7 @@ mujoco==2.2.0
 mujoco-py==2.1.2.14
 numpy==1.22.3
 opencv-python==4.6.0.66
-openseespy==3.4.0.2
-openseespylinux==3.4.0.2
-openseespymac==3.4.0.2
+opensees>=0.0.65
 packaging==21.3
 pandas==1.4.3
 patchelf==0.14.5.0
