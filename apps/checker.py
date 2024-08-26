@@ -3,7 +3,7 @@ import math
 import os, sys
 base_path = os.getcwd()
 sys.path.append(base_path)
-import openseespy.opensees as op
+import opensees.openseespy as op
 import matplotlib.pyplot as plt
 from utils.utils import readFile
 

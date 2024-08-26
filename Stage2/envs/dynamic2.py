@@ -2,7 +2,7 @@ import numpy as np
 from collections import OrderedDict
 import math
 import sys, os, time
-import openseespy.opensees as op
+import opensees.openseespy as op
 import matplotlib.pyplot as plt
 from utils.utils import readFile
 def blockPrint():

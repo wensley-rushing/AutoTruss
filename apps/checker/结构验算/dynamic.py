@@ -1,6 +1,6 @@
 import numpy as np
 import math
-import openseespy.opensees as op
+import opensees.openseespy as op
 import matplotlib.pyplot as plt
 from utils import *
 

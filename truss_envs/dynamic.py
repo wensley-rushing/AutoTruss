@@ -1,7 +1,7 @@
 import numpy as np
 import math, time
 import sys, os
-import openseespy.opensees as op
+import opensees.openseespy as op
 import matplotlib.pyplot as plt
 from collections import OrderedDict
 base_path = os.getcwd()

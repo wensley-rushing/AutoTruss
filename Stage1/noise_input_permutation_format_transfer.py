@@ -8,7 +8,7 @@ import copy
 import matplotlib.pyplot as plt
 import warnings
 import os, sys, contextlib
-import openseespy.opensees as op
+import opensees.openseespy as op
 
 import heapq
 

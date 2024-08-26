@@ -20,7 +20,7 @@ else:
 if isMac:
     import openseespymac.opensees as op
 else:
-    import openseespy.opensees as op
+    import opensees.openseespy as op
 
 from utils.utils import readFile, Point, Bar, getlen2, Vector3, getang
 
